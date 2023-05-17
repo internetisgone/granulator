@@ -1,3 +1,4 @@
 /wav/*
 /sounds/*
 /test patches/*
+.DS_Store
