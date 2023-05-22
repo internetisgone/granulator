@@ -1,4 +1,4 @@
-#N canvas 239 199 1129 673 12;
+#N canvas 196 199 1129 673 12;
 #X obj 363 382 line~;
 #X obj 367 292 pack float float float;
 #X msg 366 326 \$1 \, \$2 \$3;
